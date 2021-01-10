@@ -1,2 +1,2 @@
 # CRUDJDBCJavaFX
-Crud con javafx
+CRUD con javafx y postgresql
